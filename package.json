@@ -15,6 +15,6 @@
     "https": "^1.0.0"
   },
   "dependencies": {
-    "mongoose": "^5.9.26"
+    "mongoose": "^5.13.15"
   }
 }
